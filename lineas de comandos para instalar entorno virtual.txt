@@ -1,0 +1,29 @@
+///// paginas de interes ///////
+https://www.django-rest-framework.org/
+https://pypi.org/project/django-cors-headers/
+
+
+///// para el entorno virtual /////
+
+> mkdir myproject
+> cd myproject
+> py -3 -m venv .venv
+ .venv\Scripts\activate
+
+
+////// Django REST framework ///////
+
+este framework perimte crear API practicamente al instante, se puede tener CRUD, se puede tener seguridad
+
+////// Es un stream que tiene la capacidad de decidir quien se conecta 
+al servidor, permite conectarnos a otro Backend ///////
+
+pip install django-cors-headers
+
+
+
+//// modulo para tener varias paginas en el frontend /////
+npm i react-router-dom
+
+//// modulos para tener mensajes al suceder eventos//////
+react-hot-toast
