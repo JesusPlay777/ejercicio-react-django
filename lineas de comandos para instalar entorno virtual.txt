@@ -1,6 +1,7 @@
-///// paginas de interes ///////
+///// paginas de interes sobre el Backend ///////
 https://www.django-rest-framework.org/
 https://pypi.org/project/django-cors-headers/
+https://www.django-rest-framework.org/coreapi/
 
 
 ///// para el entorno virtual /////
@@ -27,3 +28,17 @@ npm i react-router-dom
 
 //// modulos para tener mensajes al suceder eventos//////
 react-hot-toast
+
+
+
+////// instalando documentacion ///////
+pip install coreapi
+
+
+
+////////// Todo sobre el Fronend  //////////
+
+para generar el cliente se uso un framework de read , este:
+
+npm create vite
+
