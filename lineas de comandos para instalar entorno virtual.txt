@@ -11,6 +11,20 @@ https://www.django-rest-framework.org/coreapi/
 > py -3 -m venv .venv
  .venv\Scripts\activate
 
+////// otra manera de instaslar ambientes virtuales  //////
+
+>pip install virtualenv
+>virtualenv env
+>env\Scritp\activate
+
+
+//// dasactivar ambiente virtual /////
+>desactivate
+
+
+//// para desactivar ambiente virtual /////
+
+> rmdir env /s    ## env es el nombre de la carpeta
 
 ////// Django REST framework ///////
 
@@ -34,7 +48,7 @@ react-hot-toast
 ////// instalando documentacion ///////
 pip install coreapi
 
-
+ npm run dev
 
 ////////// Todo sobre el Fronend  //////////
 
